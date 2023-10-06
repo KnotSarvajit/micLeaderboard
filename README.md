@@ -1,4 +1,4 @@
-# React + Vite
+https://prod.liveshare.vsengsaas.visualstudio.com/join?4435BB7D2BE3078D66A8B9D932EC39ED2A18# React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
